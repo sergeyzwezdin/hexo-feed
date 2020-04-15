@@ -1,31 +1,35 @@
 {
-  "name": "hexo-feed",
-  "version": "0.0.1",
-  "description": "RSS, Atom and JSON Feed generator for Hexo static site generator",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sergeyzwezdin/hexo-feed.git"
-  },
-  "keywords": [
-    "hexo",
-    "generator",
-    "feed",
-    "rss",
-    "atom",
-    "json",
-    "feed"
-  ],
-  "author": "Sergey Zwezdin <sergey@zwezdin.com> (https://zwezdin.com)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/sergeyzwezdin/hexo-feed/issues"
-  },
-  "homepage": "https://github.com/sergeyzwezdin/hexo-feed#readme",
-  "devDependencies": {
-    "hexo": "^4.2.0"
-  }
+    "name": "hexo-feed",
+    "version": "0.0.1",
+    "description": "RSS, Atom and JSON Feed generator for Hexo static site generator",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sergeyzwezdin/hexo-feed.git"
+    },
+    "files": [
+        "index.js",
+        "lib/"
+    ],
+    "keywords": [
+        "hexo",
+        "generator",
+        "feed",
+        "rss",
+        "atom",
+        "json",
+        "feed"
+    ],
+    "author": "Sergey Zwezdin <sergey@zwezdin.com> (https://zwezdin.com)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/sergeyzwezdin/hexo-feed/issues"
+    },
+    "homepage": "https://github.com/sergeyzwezdin/hexo-feed#readme",
+    "devDependencies": {
+        "hexo": "^4.2.0"
+    }
 }
