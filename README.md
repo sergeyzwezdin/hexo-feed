@@ -1,4 +1,4 @@
-# hexo-feed 🏖
+# hexo-feed  ![Publish on NPM](https://github.com/sergeyzwezdin/hexo-feed/workflows/Publish%20on%20NPM/badge.svg?branch=master) ![](https://img.shields.io/npm/v/hexo-feed)
 `hexo-feed` is a plugin for Hexo static site generator that builds RSS, Atom and JSON Feed for your content.
 
 * Supports most popular formats: **RSS**, **Atom** and **JSON Feed**.
