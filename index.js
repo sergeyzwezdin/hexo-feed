@@ -2,6 +2,8 @@ hexo.config.feed = Object.assign(
     {
         order_by: '-date',
         limit: 0,
+        tag_dir: 'tag',
+        category_dir: 'category',
         rss: {
             enable: true,
             output: 'rss.xml',
