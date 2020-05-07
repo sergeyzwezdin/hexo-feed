@@ -30,9 +30,11 @@
     },
     "homepage": "https://github.com/sergeyzwezdin/hexo-feed#readme",
     "peerDependencies": {
-        "hexo": "^4.2.0"
+        "hexo": "^4.2.0",
+        "chalk": "^4.0.0"
     },
-    "dependencies": {
+    "dependencies": {},
+    "devDependencies": {
         "chalk": "^4.0.0"
     }
 }
